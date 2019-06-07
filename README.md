@@ -1,5 +1,8 @@
 # SpiritMaths
 App for get spirit number explanation
+
+![Spirit Math Home Screen](./ANDROID/spirit_math1.png?raw=true "Home Screen")
+
 - Taper une phrase dans la zone de saisie.
 - L'application vous retournera la signification de la phrase en chiffre.
 - Appuyer sur le bouton "GET RESULT" pour trouver la signification du chiffre correspondant à la phrase que vous avez tapé .
