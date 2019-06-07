@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spirit Maths</string>
+    <string name="text_meaning_value">No text value yet</string>
+    <string name="default_spirit_value">No Signification yet.</string>
+    <string name="statement_to_search">Enter statement you want to get meaning</string>
+    <string name="btn_statement">Get Result</string>
+    <string name="tv_statement_signification">Statement number signification: </string>
+    <string name="numero_history">N°%1$d</string>
+    <string name="valeur_history">valeur: %1$d</string>
+</resources>
