@@ -1,7 +1,7 @@
 # SpiritMaths
 App for get spirit number explanation
 
-![Spirit Math Home Screen](/Images/spirit_math1.png?raw=true "Home Screen")
+[![spirit-math1.png](https://i.postimg.cc/0QLyqHvC/spirit-math1.png)](https://postimg.cc/hz1BLsfJ)
 
 - Taper une phrase dans la zone de saisie.
 - L'application vous retournera la signification de la phrase en chiffre.
